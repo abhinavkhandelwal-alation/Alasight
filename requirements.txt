@@ -1,0 +1,15 @@
+pypdf
+langchain
+langchain-community
+torch
+accelerate
+bitsandbytes
+transformers
+ctransformers
+sentence_transformers
+faiss_cpu
+langchain-huggingface
+chainlit
+pydantic==2.10.1
+langchain-ollama
+llama-stack
